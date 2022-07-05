@@ -1,7 +1,7 @@
 # Desafio de projeto sobre Git/GitHub 
 
 
-Meu Portfólio
+Meu Portfólio:
 
 ![image](https://user-images.githubusercontent.com/100587829/176228795-19f5d8cd-2bff-403d-9dca-7dcbf01b668a.png)
 
